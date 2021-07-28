@@ -1,0 +1,21 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "Vanilla JS hello world tests",
+  "main": "index.js",
+  "author": "ZauJulio",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-jest": "^27.0.6",
+    "jquery": "^3.6.0",
+    "jsdom": "^16.6.0"
+  }
+}
