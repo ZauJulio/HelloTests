@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1627446925499" clover="3.2.0">
-  <project timestamp="1627446925499" name="All files">
+<coverage generated="1627511586313" clover="3.2.0">
+  <project timestamp="1627511586313" name="All files">
     <metrics statements="49" coveredstatements="46" conditionals="12" coveredconditionals="10" methods="8" coveredmethods="8" elements="69" coveredelements="64" complexity="0" loc="49" ncloc="49" packages="1" files="2" classes="2"/>
     <file name="calc.js" path="/home/zau/Desktop/Projects/HelloTests/JS/vanilla_js/src/scripts/calc.js">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
