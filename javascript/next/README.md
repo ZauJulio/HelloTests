@@ -2,7 +2,7 @@
 [Next/babel .eslintrc](https://stackoverflow.com/questions/68163385/parsing-error-cannot-find-module-next-babel)
 
 ```sh
-yarn add jest @testing-library/react @types/jest @testing-library/jest-dom babel-jest @babel/core -D
+yarn add jest @testing-library/react @types/jest @testing-library/jest-dom babel-jest @babel/core identity-obj-proxy @babel/plugin-transform-runtime @babel/preset-env @babel/preset-react -D
 ```
 
 ```json

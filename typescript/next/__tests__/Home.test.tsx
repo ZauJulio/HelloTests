@@ -4,6 +4,6 @@ import Home from '../pages/';
 
 test('renders example title', () => {
   render(<Home />);
-  const titleElement = screen.getByText(/Nextjs/i);
+  const titleElement = screen.getByText(/Nextjs - Typescript/i);
   expect(titleElement).toBeInTheDocument();
 });
