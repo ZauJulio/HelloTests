@@ -17,5 +17,7 @@ bower_components
 psd
 thumb
 sketch
+.next
+coverage
 
 # End of https://www.toptal.com/developers/gitignore/api/react
